@@ -1,9 +1,9 @@
 import MainLayout from "@components/MainLayout";
 
-const About: React.FC = () => (
+const Price: React.FC = () => (
   <MainLayout>
-    <h1>About</h1>
+    <h1>Price</h1>
   </MainLayout>
 );
 
-export default About;
+export default Price;
